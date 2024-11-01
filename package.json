@@ -1,0 +1,34 @@
+{
+  "name": "pumpx",
+  "version": "1.0.1",
+  "description": "Solana Pump.fun Utility Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/scripts/main.ts --disable-warning --no-warnings"
+  },
+  "keywords": [],
+  "author": "iSyqozz <fares.hassen512@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@metaplex-foundation/js": "^0.20.1",
+    "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
+    "@solana/spl-token": "^0.4.3",
+    "@solana/web3.js": "^1.91.2",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "chalk": "^4",
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.4.5",
+    "jito-ts": "^3.0.1",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  },
+  "repository": "https://github.com/pumpX-org/PumpX.git"
+}
