@@ -52,8 +52,8 @@ This command tells the AI to:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/twitter-solana-ai-bot.git
-   cd twitter-solana-ai-bot
+   git clone https://github.com/NeoXAIT/NeoXPF.git
+   cd run
    ```
 
 2. **Install dependencies**:
